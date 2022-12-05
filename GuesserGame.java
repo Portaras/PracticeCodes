@@ -46,7 +46,7 @@ class Umpire{
 		else if (this.gusserInp < this.playerInp){
 			count ++;
 			System.out.println();
-			System.out.println("Player - "+ count +" selected greater value");
+			System.out.println("Player - "+ count +" selected greater Value");
 		}
 	}
 }	
