@@ -146,7 +146,7 @@ public class PatternProgram {
 		}
 		System.out.println();
 
-		// Question 3
+		// Question 3 :
 
 		for (int i =0 ; i<n ; i++)
 		{
