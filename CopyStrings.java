@@ -3,7 +3,7 @@ public class CopyStrings {
 
 	public static void main(String[] args) 
 	{
-		String s1="iNeuron";
+		String s1="INEURON";
 		
 		String s2="";
 		
